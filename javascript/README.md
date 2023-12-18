@@ -10,3 +10,4 @@ How to set up:
 How to run:
  * Once: `pnpm test`
  * Watch mode: `pnpm test -- --watch`
+ * Watch mode for a specific challenge: `pnpm test -- --watch challege-1`
