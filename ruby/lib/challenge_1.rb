@@ -1,3 +1,3 @@
 def challenge_1(input)
-  "#{input}"
+  "000"
 end
